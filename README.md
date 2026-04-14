@@ -10,23 +10,23 @@ Fritz, J. M., Childs, J. D., Wainner, R. S., & Flynn, T. W.
 *Spine*, 37(25), 2114–2121.  
 https://doi.org/10.1097/BRS.0b013e31825d32f5  
 
-This is a retrospective claims-based study of patients with a new primary care consultation for low back pain. It found that early physical therapy was associated with lower subsequent low-back-pain-related costs and lower downstream utilization than delayed physical therapy.  ￼Under Hill’s criteria, the paper supports temporality because timing of PT precedes later utilization and cost outcomes, and it shows moderate strength of association for utilization and cost signals. It also supports plausibility and coherence, since earlier conservative management could reasonably reduce later imaging, injections, and other escalation. Its main weakness is causal identification: because the design is observational, experiment is absent, specificity is weak, consistency depends on related observational studies rather than direct replication, and biological gradient is not clearly established. This is good evidence for association and policy relevance around utilization, weaker evidence for causal claims about patient outcomes.
+This is a retrospective claims-based study of patients with a new primary care consultation for low back pain. It found that early physical therapy was associated with lower subsequent low-back-pain-related costs and lower downstream utilization than delayed physical therapy. Under Hill’s criteria, the paper supports partially supports temporality because timing of PT precedes later utilization and cost outcomes, and it shows moderate strength of association for utilization and cost signals. It also supports plausibility and coherence, since earlier conservative management could reasonably reduce later imaging, injections, and other escalation. Its main weakness is causal identification: because the design is observational, experiment is absent, specificity is weak, consistency depends on related observational studies rather than direct replication, and biological gradient is not clearly established. This is good evidence for association and policy relevance around utilization, weaker evidence for causal claims about patient outcomes.
 
 ### Summary  
 Retrospective claims-based study showing early physical therapy is associated with lower downstream healthcare utilization and costs.
 
 ### Hill’s Criteria Assessment  
-- **Temporality**: Supported  
+- **Temporality**: Weekly supported (retrospective)
 - **Strength**: Moderate (utilization, not outcomes)  
 - **Consistency**: Moderate across similar observational studies  
 - **Plausibility**: Strong  
 - **Coherence**: Strong  
 - **Experiment**: Not satisfied  
 - **Specificity**: Weak  
-- **Biological Gradient**: Not clearly demonstrated  
+- **Biological Gradient**: Not demonstrated  
 
 ### Interpretation  
-Strong evidence for association with utilization patterns; limited causal inference for clinical outcomes.
+Evidence for association with utilization patterns; limited causal inference for clinical outcomes.
 
 ## Gellhorn et al. (2012)
 
@@ -35,7 +35,7 @@ Gellhorn, A. C., Chan, L., Martin, B., & Friedly, J.
 *Spine*, 37(9), 775–782.  
 https://doi.org/10.1097/BRS.0b013e3181d79a09  
 
-This retrospective Medicare cohort study examined whether early PT for acute low back pain was associated with later surgery, injections, and frequent physician visits. Patients receiving PT in the acute phase had lower adjusted odds of surgery, injections, and frequent office use than those receiving PT later.  ￼ On Hill’s criteria, the study again supports temporality, moderate strength, and plausibility. It also contributes some consistency because its findings align directionally with Fritz and Childs on downstream utilization. Its limitations are similar: no experiment, weak specificity, and no strong biological gradient. Importantly, the outcomes are service use rather than direct patient-centered endpoints such as sustained pain reduction or disability improvement. So this paper strengthens the claim that earlier PT may alter care pathways, while leaving the stronger claim that delay materially harms health only partially supported.
+This retrospective Medicare cohort study examined whether early PT for acute low back pain was associated with later surgery, injections, and frequent physician visits. Patients receiving PT in the acute phase had lower adjusted odds of surgery, injections, and frequent office use than those receiving PT later. On Hill’s criteria, the study again supports temporality, moderate strength, and plausibility. It also contributes some consistency because its findings align directionally with Fritz and Childs on downstream utilization. Its limitations are similar: no experiment, weak specificity, and no strong biological gradient. Importantly, the outcomes are service use rather than direct patient-centered endpoints such as sustained pain reduction or disability improvement. So this paper strengthens the claim that earlier PT may alter care pathways, while leaving the stronger claim that delay materially harms health only partially supported.
 
 ### Summary  
 Early PT associated with lower rates of surgery, injections, and frequent physician visits.
@@ -105,7 +105,7 @@ Ojha, H. A., Snyder, R. S., & Davenport, T. E.
 *Physical Therapy*, 94(1), 14–30.  
 https://doi.org/10.2522/ptj.20130096  
 
-This systematic review compared direct-access PT with referred PT episodes of care for musculoskeletal conditions. It concluded that evidence suggests direct access may decrease costs and improve or maintain outcomes relative to referred care.  ￼ Under Hill’s criteria, the paper is useful mainly for consistency, coherence, and analogy. It shows that a broader literature trends in a similar direction: fewer visits, lower cost, and similar outcomes when access is less mediated. However, because the included studies were largely nonrandomized and heterogeneous, this review does not materially strengthen experiment and only modestly strengthens strength or specificity. It is best read as a synthesis suggesting that access liberalization is not obviously harmful and may improve efficiency, while still leaving strong causal claims underdetermined.
+This systematic review compared direct-access PT with referred PT episodes of care for musculoskeletal conditions. It concluded that evidence suggests direct access may decrease costs and improve or maintain outcomes relative to referred care. Under Hill’s criteria, the paper is useful mainly for consistency, coherence, and analogy. It shows that a broader literature trends in a similar direction: fewer visits, lower cost, and similar outcomes when access is less mediated. However, because the included studies were largely nonrandomized and heterogeneous, this review does not materially strengthen experiment and only modestly strengthens strength or specificity. It is best read as a synthesis suggesting that access liberalization is not obviously harmful and may improve efficiency, while still leaving strong causal claims underdetermined.
 
 ### Summary  
 Direct access PT associated with lower cost and similar or better outcomes.
