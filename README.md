@@ -3,6 +3,16 @@
 
 This repository supports a broader analysis of prior authorization and access to physical therapy by examining the strength of the evidence base, particularly through the lens of Hill’s criteria for causal inference.
 
+### Note on Plausibility and Coherence
+
+In this bibliography, plausibility and coherence are currently rated as “strong but possibly tautological.” This reflects a specific limitation in how these criteria function in this body of literature.
+
+Many of the proposed mechanisms linking earlier physical therapy to improved outcomes (such as reduced downstream utilization, avoidance of escalation, or substitution away from less desirable interventions) are conceptually reasonable and internally consistent. In that sense, they satisfy plausibility and coherence.
+
+However, these same mechanisms are often closely aligned with the outcomes being measured. As a result, the explanation and the observation can become difficult to disentangle: findings that earlier physical therapy is associated with reduced utilization are supported by mechanisms that largely restate that relationship in causal terms. This creates a risk of circular reasoning, where the observed association reinforces the plausibility of the mechanism without independently strengthening causal inference.
+
+For this reason, plausibility and coherence are treated here as supportive but limited criteria. They are necessary for causal interpretation, but not sufficient, particularly in the absence of stronger evidence from temporality, experiment, or robust control of confounding.
+
 ## Fritz et al. (2012)
 
 Fritz, J. M., Childs, J. D., Wainner, R. S., & Flynn, T. W.  
@@ -19,8 +29,8 @@ Retrospective claims-based study showing early physical therapy is associated wi
 - **Temporality**: Weekly supported (retrospective)
 - **Strength**: Moderate (utilization, not outcomes)  
 - **Consistency**: Moderate across similar observational studies  
-- **Plausibility**: Strong  
-- **Coherence**: Strong  
+- **Plausibility**: Strong but possibly tautological 
+- **Coherence**: Strong but possibly tautological   
 - **Experiment**: Not satisfied  
 - **Specificity**: Weak  
 - **Biological Gradient**: Not demonstrated  
@@ -44,8 +54,8 @@ Early PT associated with lower rates of surgery, injections, and frequent physic
 - **Temporality**: Supported  
 - **Strength**: Moderate  
 - **Consistency**: Supported (aligns with Fritz)  
-- **Plausibility**: Strong  
-- **Coherence**: Strong  
+- **Plausibility**: Strong but possibly tautological   
+- **Coherence**: Strong but possibly tautological   
 - **Experiment**: Not satisfied  
 - **Specificity**: Weak  
 
@@ -68,8 +78,8 @@ Early and guideline-adherent PT associated with lower utilization and lower cost
 - **Temporality**: Supported  
 - **Strength**: Moderate (utilization)  
 - **Consistency**: Supported  
-- **Plausibility**: Strong  
-- **Coherence**: Strong  
+- **Plausibility**: Strong but possibly tautological   
+- **Coherence**: Strong but possibly tautological   
 - **Experiment**: Not satisfied  
 
 ### Interpretation  
@@ -91,8 +101,8 @@ Randomized trial showing modest short-term improvement with early PT; no meaning
 - **Temporality**: Supported  
 - **Strength**: Weak to moderate (small effect size)  
 - **Consistency**: Limited  
-- **Plausibility**: Strong  
-- **Coherence**: Strong  
+- **Plausibility**: Strong but possibly tautological   
+- **Coherence**: Strong but possibly tautological   
 - **Experiment**: Strongly supported  
 
 ### Interpretation  
@@ -112,8 +122,8 @@ Direct access PT associated with lower cost and similar or better outcomes.
 
 ### Hill’s Criteria Assessment  
 - **Consistency**: Moderate  
-- **Plausibility**: Strong  
-- **Coherence**: Strong  
+- **Plausibility**: Strong but possibly tautological   
+- **Coherence**: Strong but possibly tautological   
 - **Experiment**: Weak (nonrandomized studies)  
 
 ### Interpretation  
@@ -135,7 +145,7 @@ Early PT associated with reduced long-term opioid use.
 - **Temporality**: Not satisfied  
 - **Strength**: Moderate  
 - **Consistency**: Variable by condition  
-- **Plausibility**: Strong  
+- **Plausibility**: Strong but possibly tautological   
 - **Experiment**: Not satisfied  
 
 ### Interpretation  
@@ -155,8 +165,8 @@ Initial provider type strongly associated with opioid exposure.
 
 ### Hill’s Criteria Assessment  
 - **Temporality**: Supported  
-- **Plausibility**: Strong  
-- **Coherence**: Strong  
+- **Plausibility**: Strong but possibly tautological   
+- **Coherence**: Strong but possibly tautological   
 - **Experiment**: Not satisfied  
 - **Specificity**: Weak  
 
